@@ -1,0 +1,23 @@
+{
+	"Home": "/home",
+	"Products": {
+		"Train": "/train",
+		"Cars": {
+			"SUV": "/suv",
+			"Sedans": "/sedans",
+			"Brands": {
+				"Mercedes": "/mercedes",
+				"BMW": "/bmw"
+			}
+		},
+		"Bicycles": "/bicycles",
+		"Other": {
+			"Scooter": "/scooter"
+		}
+	},
+	"Contacts": "/contacts",
+	"Privacy": {
+		"Terms and conditions": "/terms",
+		"Privacy policy": "/privacy-policy"
+	}
+}
